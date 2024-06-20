@@ -129,6 +129,8 @@ button.order-service:focus{
 .portfolio{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
+}
+.portfolio-list{
     background-color: #FFFFFF;
 }
 .our-portfolio{
