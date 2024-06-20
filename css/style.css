@@ -72,9 +72,6 @@ ul {
 }
 button.order-service{
     cursor: pointer;
-    border-radius: 4px;
-    width: 169px;
-    height: 56px;
     color: white;
     background-color: #4D5AE5;
     border: none;
@@ -132,6 +129,7 @@ button.order-service:focus{
 .portfolio{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
+    background-color: #FFFFFF;
 }
 .our-portfolio{
     color: #2e2f42;
