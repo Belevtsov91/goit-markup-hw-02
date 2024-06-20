@@ -113,6 +113,9 @@ button.order-service:focus{
 .our-team-list{
     background-color: #F4F4FD;
 }
+.team-list-item{
+    background-color: #FFFFFF;
+}
 .our-team-item{
     font-weight: 500;
     font-size: 20px;
@@ -129,9 +132,6 @@ button.order-service:focus{
 .portfolio{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
-}
-.portfolio-list-item{
-    background-color: #FFFFFF;
 }
 .our-portfolio{
     color: #2e2f42;
